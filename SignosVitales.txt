@@ -1,0 +1,17 @@
+Santiagoj Abrigos
+Temperatura : 45 F Cardiaca: 78 F Respiratoria: 89 Presion Sanguinea: 56 
+=========================================
+Santiagoj Abrigos
+
+Temperatura : 45°C
+F Cardiaca: 48lat/min
+F Respiratoria: 12res/min
+Presion Sanguinea: 89mmHg
+=================================================
+Aracely12 Carrion
+
+Temperatura : 78°C
+F Cardiaca: 89lat/min
+F Respiratoria: 23res/min
+Presion Sanguinea: 45mmHg
+=================================================
